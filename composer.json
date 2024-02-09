@@ -1,0 +1,16 @@
+{
+    "name": "msmachadodossantos/php-solos",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Msmachadodossantos\\PhpSolos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mario Sergio Machado dos Santos",
+            "email": "29000264+msmachadodossantos@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
